@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/issues</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/pulls</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/actions</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/projects?query=is%3Aopen</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/security</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/releases</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/labels</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/milestones</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/compare</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/actions/caches</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/actions/runs/7322605875</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/actions/runs/7322522869</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/labels?sort=name-asc</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/labels?sort=name-desc</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/labels?sort=count-desc</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/labels?sort=count-asc</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/labels/bug</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/labels/documentation</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/labels/duplicate</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/labels/enhancement</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/labels/good%20first%20issue</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/labels/help%20wanted</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/labels/invalid</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/labels/question</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/labels/wontfix</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/milestones?state=open</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/milestones?state=closed</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/actions/runs/7322605875/job/19944300302</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/actions/runs/7322605875/job/19944308576</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/actions/runs/7322605875/job/19944308369</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/actions/runs/7322605875/usage</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/commit/cab4d54533c9f382a37f962c72cc5b3d15ff11c5</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/actions/runs/7322522869/job/19944110132</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/actions/runs/7322522869/job/19944114853</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/actions/runs/7322522869/job/19944114912</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/actions/runs/7322522869/usage</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/commit/5626125e5657002c1df4991d3061ae0f054b55ad</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/samsergiopamzo/counsellingdirectoryservices/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-12-25T15:10:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
