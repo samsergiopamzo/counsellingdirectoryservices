@@ -1,0 +1,145 @@
+/* Common styles */
+body {
+  background-image: url("images/forest.jpg");
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: white;
+  text-shadow: 1px 1px 1px black;
+  text-align: center;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+nav {
+  background-color: #f4f4f4;
+  padding: 10px;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #333;
+  text-decoration: none;
+  padding: 5px 10px;
+}
+
+.content {
+  padding: 20px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  left: 0;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Homepage styles */
+.home-page {
+  background-image: url("images/forest.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Issues page styles */
+.issues-page {
+  background-image: url("images/alaska.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* About page styles */
+.about-page {
+  background-image: url("images/sunset tree reflection.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.about-page .content {
+  background-color: #f9f9f9;
+  padding: 20px;
+  color: #333;
+}
+
+/* Contact page styles */
+.contact-page {
+  background-image: url("images/alaska.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.contact-page .content {
+  background-color: #eaeaea;
+  padding: 20px;
+  color: #333;
+}
+
+/* Testimonial styles */
+.testimonial {
+  background-color: #f9f9f9;
+  padding: 20px;
+  color: #333;
+}
+
+.testimonial h3 {
+  color: #555;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.testimonial p {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+/* Additional styles for the dropdown menu */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Updated styles for the vertical dropdown */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  left: 0;
+}
+
+.dropdown-content a {
+  display: block;
+  color: #333;
+  text-decoration: none;
+  padding: 5px 10px;
+}

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Counselling Directory Homepage</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <style>
+    /* Additional styles for the dropdown menu */
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+  </style>
+</head>
+<body class="home-page">
+  <header>
+    <h1>Counselling Directory Services</h1>
+  </header>
+  <nav>
+    <ul>
+      <li class="dropdown">
+        <a href="issues.html">Issues</a>
+        <div class="dropdown-content">
+          <a href="#">Depression</a>
+          <a href="#">Anxiety</a>
+          <a href="#">Bipolar</a>
+        </div>
+      </li>
+      <li><a href="about.html">About Us</a></li>
+      <li><a href="testimonials.html">Testimonials</a></li>
+      <li><a href="contact.html">Contact Us</a></li>
+    </ul>
+  </nav>
+  <div class="content">
+    <h2>Welcome To Counselling Directory Homepage</h2>
+    <p>Keep a cool head.</p>
+
+    <!-- Add the audio element for the music with controls -->
+    <audio id="musicPlayer" controls autoplay>
+      <source src="music/Bittersweet Symphony - The Verve (Instrumental Version).mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+
+    <!-- Add the volume control buttons -->
+    <div>
+      <button onclick="muteAudio()">Mute</button>
+      <button onclick="reduceVolume()">Reduce Volume</button>
+      <button onclick="increaseVolume()">Increase Volume</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+  <script>
+    // JavaScript code for volume control
+    var musicPlayer = document.getElementById("musicPlayer");
+
+    function muteAudio() {
+      musicPlayer.muted = !musicPlayer.muted;
+    }
+
+    function reduceVolume() {
+      if (musicPlayer.volume > 0) {
+        musicPlayer.volume -= 0.2; // Adjust the volume reduction value as needed
+      }
+    }
+
+    function increaseVolume() {
+      if (musicPlayer.volume < 1) {
+        musicPlayer.volume += 0.2; // Adjust the volume increase value as needed
+      }
+    }
+  </script>
+</body>
+</html>
